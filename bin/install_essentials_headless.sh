@@ -55,10 +55,10 @@ git clone https://github.com/tmux-plugins/tpm ~/.tmux/plugins/tpm
 
 echo
 echo 'Get config files'
-wget https://raw.githubusercontent.com/recursivethinker/config-files/main/.vimrc\
+wget https://raw.githubusercontent.com/recursivethinker/config-files/main/vim/.vimrc\
 	-O ~/.vimrc
 
 wget\
-https://raw.githubusercontent.com/recursivethinker/config-files/main/.tmux.conf\
+https://raw.githubusercontent.com/recursivethinker/config-files/main/tmux/.tmux.conf\
 	-O ~/.tmux.conf
 
