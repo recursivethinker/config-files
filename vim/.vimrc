@@ -7,7 +7,6 @@
 "#
 "###############################################################################                            
 
-set spell spelllang=en_us
 set background=dark
 set nocompatible
 set number relativenumber
